@@ -2,7 +2,7 @@
 layout: post
 title:  "经济学人"
 date:   2023-09-17
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "经济学人最新一期"
 tag:
 - markdown 
 - syntax
