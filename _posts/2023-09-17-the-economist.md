@@ -6,7 +6,7 @@ excerpt: "经济学人最新一期"
 tag:
 - economist
 - free download
-comments: true
+comments: false
 ---
 
 ## HTML Elements
