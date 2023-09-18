@@ -6,7 +6,7 @@ excerpt: "纽约客最新一期"
 tag:
 - New Yorker 
 - free download
-comments: true
+comments: false
 ---
 
 
