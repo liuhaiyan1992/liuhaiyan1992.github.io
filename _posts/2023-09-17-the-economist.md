@@ -13,7 +13,7 @@ comments: false
 
 
 <div align="center">
-<img src="https://z1.ax1x.com/2023/09/24/pPTxPlq.jpg" alt="pPTxPlq.jpg" border="0" width = 30 height = 40 /> 
+<img src="https://z1.ax1x.com/2023/09/24/pP7pwcR.jpg" alt="pPTxPlq.jpg" border="0" width = 300 height = 400 /> 
 </div>
 
 
