@@ -4,7 +4,7 @@ bio:                '读书是一种思维方式，一种生活方式。'
 description:        "外刊兔是一个免费提供最新经济学人、纽约客、科学期刊的高清PDF下载的网站。浏览高质量外文期刊，无需订阅费用，随时满足您的知识渴望。"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo4.svg'
+logo:               'https://cdn.jsdelivr.net/gh/liuhaiyan1992/lhycdn/logo4.svg'
 background:         'https://cdn.jsdelivr.net/gh/liuhaiyan1992/lhycdn/light_1.webp'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
