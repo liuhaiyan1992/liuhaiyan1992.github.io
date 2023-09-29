@@ -5,7 +5,7 @@ description:        "外刊兔是一个免费提供最新经济学人、纽约�
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo4.svg'
-background:         'assets/img/light_1.webp'
+background:         'https://cdn.jsdelivr.net/gh/liuhaiyan1992/lhycdn/light_1.webp'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://waikantu.com
