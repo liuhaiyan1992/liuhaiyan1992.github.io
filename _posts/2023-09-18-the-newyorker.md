@@ -13,7 +13,7 @@ comments: false
 
 
 <div align="center">
-<img src="https://z1.ax1x.com/2023/09/24/pP79EvR.png" border="0" width = 300 height = 400 /> 
+<img src="https://cdn.jsdelivr.net/gh/liuhaiyan1992/lhycdn/newyork-925.png" border="0" width = 300 height = 400 /> 
 </div>
 
 
