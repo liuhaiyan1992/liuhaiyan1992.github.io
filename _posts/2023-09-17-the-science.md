@@ -2,7 +2,7 @@
 layout: post
 title:  "科学"
 date:   2023-09-18
-excerpt: "科学科学"
+excerpt: "科学最新一期"
 tag:
 - science 
 - free download
