@@ -9,11 +9,11 @@ tag:
 comments: false
 ---
 
-## 经济学人 The Economist – September 23-29, 2023
+## 经济学人 The Economist – October 07-13, 2023
 
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/liuhaiyan1992/lhycdn/economist-923.jpeg" alt="economist-923" border="0" width = 300 height = 400 /> 
+<img src="https://cdn.jsdelivr.net/gh/liuhaiyan1992/lhycdn/TE20231007.png" alt="economist-923" border="0" width = 300 height = 400 /> 
 </div>
 
 
