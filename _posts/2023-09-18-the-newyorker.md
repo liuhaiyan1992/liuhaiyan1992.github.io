@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "纽约客"
-date:   2023-09-18
+date:   2024-02-12
 excerpt: "纽约客最新一期"
 tag:
 - New Yorker 
@@ -9,17 +9,17 @@ tag:
 comments: false
 ---
 
-## 纽约客 The New Yorker 2023.09.25
+## 纽约客 The New Yorker 2024.02.12
 
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/liuhaiyan1992/lhycdn/newyork-925.png" border="0" width = 300 height = 400 /> 
+<img src="https://s11.ax1x.com/2024/02/17/pFGjqMR.png" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/iKmZ919rnm6j">The New Yorker PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/iWzq31oii6ad">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
