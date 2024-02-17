@@ -11,9 +11,8 @@ comments: false
 
 ## 科学 Science – 9 February 2024
 
-
 <div align="center">
-<img src="https://upload.cc/i1/2024/02/17/d21RAk.png" alt="pPTxPlq.jpg" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/xTzS8mHf/Science-9-February-2024-00.png" alt="science0209" border="0" width = 300 height = 400 /> 
 </div>
 
 
