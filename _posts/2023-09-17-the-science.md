@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科学"
-date:   2023-09-18
+date:   2024-02-09
 excerpt: "科学最新一期"
 tag:
 - science 
@@ -9,17 +9,17 @@ tag:
 comments: false
 ---
 
-## 科学 Science – Volume 381 Issue 6664, 22 September 2023
+## 科学 Science – 9 February 2024
 
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/liuhaiyan1992/lhycdn/science-922.png" alt="pPTxPlq.jpg" border="0" width = 300 height = 400 /> 
+<img src="https://upload.cc/i1/2024/02/17/d21RAk.png" alt="pPTxPlq.jpg" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/iNlpa19rnk0b">Science PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/iROBE1oii4xe">Science PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
