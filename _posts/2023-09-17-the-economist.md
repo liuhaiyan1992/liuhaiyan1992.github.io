@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "经济学人"
-date:   2023-09-17
+date:   2024-02-03
 excerpt: "经济学人最新一期"
 tag:
 - economist
@@ -9,17 +9,17 @@ tag:
 comments: false
 ---
 
-## 经济学人 The Economist – October 07-13, 2023
+## 经济学人 The Economist – February 03-10, 2024
 
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/liuhaiyan1992/lhycdn/TE20231007.png" alt="economist-923" border="0" width = 300 height = 400 /> 
+<img src="https://s11.ax1x.com/2024/02/17/pFGjdqP.png" alt="economist-923" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期经济学人 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/iwLKC19rnh6j">The Economist PDF Download Link 1</a>  
+  <a href="https://wwk.lanzout.com/iGZAc1oihxuj">The Economist PDF Download Link </a>  
   <br/>
   链接提取码： waiktu
  
