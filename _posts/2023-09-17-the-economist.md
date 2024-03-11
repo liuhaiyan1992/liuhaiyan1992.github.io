@@ -19,7 +19,7 @@ comments: false
 
  <h5>最新一期经济学人 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="[TE 2024-03-09](https://wwk.lanzout.com/isrpb1r30t7i)">The Economist PDF Download Link </a>  
+  <a href="https://wwk.lanzout.com/iAjJe1r30umj">The Economist PDF Download Link </a>  
   <br/>
   链接提取码： waiktu
  
