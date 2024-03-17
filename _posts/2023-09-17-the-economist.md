@@ -13,7 +13,7 @@ comments: false
 
 
 <div align="center">
-<img src="https://upload.cc/i1/2024/03/17/1EA3bF.png" alt="economist-923" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/Jh11mzpX/TE-2024-03-16-00.png" alt="economist-923" border="0" width = 300 height = 400 /> 
 </div>
 
 
