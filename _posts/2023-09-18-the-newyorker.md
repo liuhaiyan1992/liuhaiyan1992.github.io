@@ -9,7 +9,7 @@ tag:
 comments: false
 ---
 
-## 纽约客 The New Yorker – March 18, 2024 
+## 纽约客 The New Yorker – March 18, 2024
 
 
 <div align="center">
