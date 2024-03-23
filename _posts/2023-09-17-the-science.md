@@ -9,7 +9,7 @@ tag:
 comments: false
 ---
 
-## 科学 Science 2024-03.15
+## 科学 Science 2024-03-15
 
 <div align="center">
 <img src="https://i.postimg.cc/nLknmwmC/Science-15-March-2024-00.png" alt="science0305" border="0" width = 300 height = 400 /> 
