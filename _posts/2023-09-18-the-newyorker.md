@@ -9,11 +9,11 @@ tag:
 comments: false
 ---
 
-## 纽约客 The New Yorker – March 25, 2023
+## 纽约客 The New Yorker – March 25, 2024
 
 
 <div align="center">
-<img src="https://i.postimg.cc/N0MQ1kkD/The-New-Yorker-March-25-2023-00.png" alt="TheNewYorker2024.03.25" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/7YvCDF0F/The-New-Yorker-March-25-2024-00.png" alt="TheNewYorker20240325" border="0" width = 300 height = 400 /> 
 </div>
 
 
