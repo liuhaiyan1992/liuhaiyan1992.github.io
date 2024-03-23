@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "纽约客"
-date:   2024-03-18
+date:   2024-03-25
 excerpt: "纽约客最新一期"
 tag:
 - New Yorker 
@@ -9,17 +9,17 @@ tag:
 comments: false
 ---
 
-## 纽约客 The New Yorker – March 18, 2024
+## 纽约客 The New Yorker – March 25, 2023
 
 
 <div align="center">
-<img src="https://i.postimg.cc/yYKwhFyV/The-New-Yorker-March-18-2024-00.png" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/N0MQ1kkD/The-New-Yorker-March-25-2023-00.png" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwk.lanzout.com/iebcG1rqufza">The New Yorker PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/iMXgs1sb4p0f">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
