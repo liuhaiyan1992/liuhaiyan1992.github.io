@@ -13,7 +13,7 @@ comments: false
 
 
 <div align="center">
-<img src="https://i.postimg.cc/7YvCDF0F/The-New-Yorker-March-25-2024-00.png" alt="TheNewYorker20240325" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/7YvCDF0F/The-New-Yorker-March-25-2024-00.png" border="0" width = 300 height = 400 /> 
 </div>
 
 
