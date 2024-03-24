@@ -17,7 +17,7 @@ comments: false
 </div>
 
 
- <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
+ <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
   <a href="https://wwk.lanzout.com/iMXgs1sb4p0f">The New Yorker PDF Download Link</a>  
   <br/>
