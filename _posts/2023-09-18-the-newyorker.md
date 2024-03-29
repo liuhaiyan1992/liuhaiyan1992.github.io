@@ -4,7 +4,7 @@ title:  "纽约客"
 date:   2024-03-25
 excerpt: "纽约客最新一期"
 tag:
-- New Yorker 
+- newyorker 
 - free download
 comments: false
 ---
