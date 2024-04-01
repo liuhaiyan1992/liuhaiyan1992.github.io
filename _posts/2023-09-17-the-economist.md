@@ -13,7 +13,7 @@ comments: false
 
 
 <div align="center">
-<img src="hhttps://i.postimg.cc/6qkJs5X0/TE-2024-03-30-00.png" alt="economist-20240330" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/6qkJs5X0/TE-2024-03-30-00.png" alt="economist-20240330" border="0" width = 300 height = 400 /> 
 </div>
 
 
