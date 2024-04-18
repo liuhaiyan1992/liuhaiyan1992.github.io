@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科学"
-date:   2024-03-22
+date:   2024-04-12
 excerpt: "科学最新一期"
 tag:
 - science 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 科学 Science 2024-03-22
+## 科学 Science 12 April 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/mkNhkqg7/Science-22-March-2024-00.png" alt="science0322" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/Lsb7mK3f/Science-12-April-2024-00.png" alt="science20240412" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwk.lanzout.com/iGyJ21tfwqfe">Science PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/iQWUs1vc9qej">Science PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
