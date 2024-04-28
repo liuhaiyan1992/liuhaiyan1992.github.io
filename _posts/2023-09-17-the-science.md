@@ -12,7 +12,7 @@ comments: false
 ## 科学 Science 19 April 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/MTwZwZpG/Science-19-April-2024-00.png" alt="science20240419" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/L4rt0xG9/Science-19-April-2024-00.png" alt="science20240419" border="0" width = 300 height = 400 /> 
 </div>
 
 
