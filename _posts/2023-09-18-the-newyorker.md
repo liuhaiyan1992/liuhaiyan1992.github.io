@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "纽约客"
-date:   2024-04-22
+date:   2024-05-13
 excerpt: "纽约客最新一期"
 tag:
 - newyorker 
@@ -9,17 +9,17 @@ tag:
 comments: false
 ---
 
-## 纽约客 The New Yorker – April 22, 2024
+## 纽约客 The New Yorker – 2024.05.13
 
 
 <div align="center">
-<img src="https://i.postimg.cc/d1RcTkYJ/The-New-Yorker-April-22-29-2024-00.png" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/q7crRkw7/The-New-Yorker-2024-05-13-00.png" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-  <a href="https://wwk.lanzout.com/iKJZT1wjn0kb">The New Yorker PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/iubFl1yhpdxe">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
