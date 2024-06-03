@@ -12,7 +12,7 @@ comments: false
 ## 纽约客 The New Yorker – June 3 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/nhLwtBxm/The-New-Yorker-June-3-2024-00.png" alt="The New Yorker 202400603" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/Wz68wQ5Z/The-New-Yorker-June-3-2024-00.png" alt="The New Yorker 202400603" border="0" width = 300 height = 400 /> 
 </div>
 
 
