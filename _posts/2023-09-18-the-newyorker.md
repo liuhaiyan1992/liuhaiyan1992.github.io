@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "纽约客"
-date:   2024-06-03
+date:   2024-06-17
 excerpt: "纽约客最新一期"
 tag:
 - newyorker 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 纽约客 The New Yorker – June 3 2024
+## 纽约客 The New Yorker – June 17 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/Wz68wQ5Z/The-New-Yorker-June-3-2024-00.png" alt="The New Yorker 202400603" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/J7cv3n9B/The-New-Yorker-June-17-2024-00.png" alt="The New Yorker 20240617" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期纽约客 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-  <a href="https://wwk.lanzout.com/iW7mV2000dqh">The New Yorker PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/ibV6E21jbw4f">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
