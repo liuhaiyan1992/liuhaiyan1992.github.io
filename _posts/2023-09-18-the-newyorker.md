@@ -12,7 +12,7 @@ comments: false
 ## 纽约客 The New Yorker – June 17 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/J7cv3n9B/The-New-Yorker-June-17-2024-00.png" alt="The New Yorker202400617" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/43PXRMTD/The-New-Yorker-June-17-2024-00.png" alt="The New Yorker202400617" border="0" width = 300 height = 400 /> 
 </div>
 
 
