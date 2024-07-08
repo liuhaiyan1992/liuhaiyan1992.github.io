@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科学"
-date:   2024-06-28
+date:   2024-07-05
 excerpt: "科学最新一期"
 tag:
 - science 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 科学 Science – 28 June 2024
+## 科学 Science – Issue 6704 Volume 385, 05 July 20244
 
 <div align="center">
-<img src="https://i.postimg.cc/XqsSszFx/Science-28-June-2024-00.png" alt="science20240628" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/gk7hFGkJ/Science-Issue-6704-Volume-385-05-July-2024-00.png" alt="science20240705" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwk.lanzout.com/ierbO236xhah">Science PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/ioBkm23w81xa">Science PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
