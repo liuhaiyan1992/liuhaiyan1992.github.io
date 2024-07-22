@@ -12,13 +12,13 @@ comments: false
 ## 纽约客 The New Yorker – July 22, 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/6QK47rHn/The-New-Yorker-July-22-2024-00.png" alt="The New Yorker202400722" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/mkWDBChH/The-New-Yorker-July-22-2024-00.png" alt="The New Yorker202400722" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期纽约客 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-  <a href="https://wwk.lanzout.com/iEFJN24tb9pg">The New Yorker PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/iFSb3256q5wh">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
