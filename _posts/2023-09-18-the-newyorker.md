@@ -18,7 +18,7 @@ comments: false
 
  <h5>最新一期纽约客 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-  <a href="https://wwk.lanzout.com/i6A0g261ow7i">The New Yorker PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/iPHoU262decf">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
