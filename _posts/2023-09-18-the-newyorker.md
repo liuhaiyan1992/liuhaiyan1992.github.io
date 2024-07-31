@@ -12,7 +12,7 @@ comments: false
 ## 纽约客 The New Yorker – August 5, 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/ydfXCZP1/The-New-Yorker-August-5-2024-00.png" alt="The New Yorker202400805" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/ydfXCZP1/The-New-Yorker-August-5-2024-00.png" alt="The New Yorker20240805" border="0" width = 300 height = 400 /> 
 </div>
 
 
