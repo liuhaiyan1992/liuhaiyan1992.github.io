@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科学"
-date:   2024-07-19
+date:   2024-08-02
 excerpt: "科学最新一期"
 tag:
 - science 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 科学 Science – Issue 6704 Volume 387, 19 July 2024
+## 科学 Science – 02 August 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/SKGYZZKv/Science-19-July-2024-00.png" alt="science20240719" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/3wPsCmmK/Science-Volume-385-Issue-6708-2-August-2024-00.png" alt="science202400802" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwk.lanzout.com/iqcbD256q21i">Science PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/iRwD726rlb3g">Science PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
