@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "纽约客"
-date:   2024-08-05
+date:   2024-08-12
 excerpt: "纽约客最新一期"
 tag:
 - newyorker 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 纽约客 The New Yorker – August 5, 2024
+## 纽约客 The New Yorker – August 12, 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/gJXGFJ19/The-New-Yorker-August-5-2024-00.png" alt="The New Yorker20240805" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/KzxN2YyP/The-New-Yorker-August-12-2024-00.png" alt="The New Yorker20240812" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期纽约客 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-  <a href="https://wwk.lanzout.com/iPHoU262decf">The New Yorker PDF Download Link</a>  
+  <a href="https://wwk.lanzout.com/iJ4tY26rldgb">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
