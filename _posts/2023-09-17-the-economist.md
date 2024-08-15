@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "经济学人"
-date:   2024-08-03
+date:   2024-08-10
 excerpt: "经济学人最新一期"
 tag:
 - economist
@@ -9,17 +9,17 @@ tag:
 comments: false
 ---
 
-## 经济学人 The Economist USA – August 3 2024
+## 经济学人 The Economist - August 10 2024
 
 
 <div align="center">
-<img src="https://i.postimg.cc/DwRjtFZ6/The-Economist-August-3rd-9th-2024-00.png" alt="The economist 20240803" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/Hn5d0Th5/TE-2024-08-10-00.png" alt="The economist 20240810" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期经济学人 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwk.lanzout.com/iC81i26rld2h">The Economist PDF Download Link </a>  
+  <a href="https://wwfh.lanzout.com/ilwsi27hxaza">The Economist PDF Download Link </a>  
   <br/>
   链接提取码： waiktu
  
