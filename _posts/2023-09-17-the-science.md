@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科学"
-date:   2024-08-02
+date:   2024-08-09
 excerpt: "科学最新一期"
 tag:
 - science 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 科学 Science – 02 August 2024
+## 科学 Science – 09 August 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/3wPsCmmK/Science-Volume-385-Issue-6708-2-August-2024-00.png" alt="science202400802" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/7hLZgvyn/Science-Issue-6709-Volume-385-9-August-2024-00.png" alt="science202400809" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwk.lanzout.com/iRwD726rlb3g">Science PDF Download Link</a>  
+  <a href="https://wwfh.lanzout.com/itv6g27hx7vi">Science PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
