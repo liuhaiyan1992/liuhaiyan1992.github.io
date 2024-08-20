@@ -12,13 +12,13 @@ comments: false
 ## 纽约客 The New Yorker – August 19, 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/3w6stPpZ/The-New-Yorker-August-19-2024-00.png" alt="The New Yorker20240819" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/4yWmmPX9/The-New-Yorker-August-19-2024-00.png" alt="The New Yorker20240819" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期纽约客 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-  <a href="https://wwfh.lanzout.com/iTZUF27hxbde">The New Yorker PDF Download Link</a>  
+  <a href="https://wwfh.lanzout.com/ix6Ef27xw5ch">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
