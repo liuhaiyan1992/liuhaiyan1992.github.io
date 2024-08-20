@@ -12,7 +12,7 @@ comments: false
 ## 科学 Science – 09 August 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/7hLZgvyn/Science-Issue-6709-Volume-385-9-August-2024-00.png" alt="science202400809" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/vTyCZWkR/Science-Issue-6709-Volume-385-9-August-2024-00.png" alt="science202400809" border="0" width = 300 height = 400 /> 
 </div>
 
 
