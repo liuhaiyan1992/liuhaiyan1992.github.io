@@ -12,13 +12,13 @@ comments: false
 ## 纽约客 The New Yorker – September 30, 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/qqZS81M6/The-New-Yorker-September-30-2024-00.png" alt="The New Yorker20240930" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/HkDDN6X4/The-New-Yorker-September-30-2024-00.png" alt="The New Yorker20240930" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期纽约客 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-  <a href="https://wwfh.lanzout.com/iCc0w2attv8f">The New Yorker PDF Download Link</a>  
+  <a href="https://wwfh.lanzout.com/iaQZs2atvgmb">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
