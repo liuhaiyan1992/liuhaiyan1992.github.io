@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "经济学人"
-date:   2024-09-21
+date:   2024-10-12
 excerpt: "经济学人最新一期"
 tag:
 - economist
@@ -9,17 +9,17 @@ tag:
 comments: false
 ---
 
-## 经济学人 The Economist - September 21 2024
+## 经济学人 The Economist - October 12 2024
 
 
 <div align="center">
-<img src="https://i.postimg.cc/sXWMFNbs/TE-2024-09-21-00.png" alt="The economist 202400921" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/SKBN7F3b/TE-2024-10-12-00.png" alt="The economist 20241012" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期经济学人 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/i3XEB2attu8j">The Economist PDF Download Link </a>  
+  <a href="https://wwfh.lanzout.com/iIMY82clrvkj">The Economist PDF Download Link </a>  
   <br/>
   链接提取码： waiktu
  
