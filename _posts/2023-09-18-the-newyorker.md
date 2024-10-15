@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "纽约客"
-date:   2024-09-30
+date:   2024-10-21
 excerpt: "纽约客最新一期"
 tag:
 - newyorker 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 纽约客 The New Yorker – September 30, 2024
+## 纽约客 The New Yorker – October 21, 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/HkDDN6X4/The-New-Yorker-September-30-2024-00.png" alt="The New Yorker20240930" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/9f9tB918/The-New-Yorker-October-21-2024-00.png" alt="The New Yorker20241021" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期纽约客 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-  <a href="https://wwfh.lanzout.com/iaQZs2atvgmb">The New Yorker PDF Download Link</a>  
+  <a href="https://wwfh.lanzout.com/iiYF62clrwlg">The New Yorker PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
