@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科学"
-date:   2024-09-20
+date:   2024-10-11
 excerpt: "科学最新一期"
 tag:
 - science 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 科学 Science – 20 September 2024
+## 科学 Science – 11 October 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/13YhG5XY/Science-Volume-385-Issue-6715-20-September-2024-00.png" alt="science20240920" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/vT1g8LJG/Science-Issue-6718-Volume-386-11-October-2024-00.png" alt="science20241011" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/i7TId2attnpe">Science PDF Download Link</a>  
+  <a href="https://wwfh.lanzout.com/i3fZi2clrsfg">Science PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
