@@ -12,13 +12,13 @@ comments: false
 ## 纽约客 The New Yorker – October 21, 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/52xYhHB0/The-New-Yorker-October-21-2024-00.png" alt="TheNewYorker20241021" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/63p97YJ4/The-New-Yorker-October-21-2024-00.png" alt="TheNewYorker2024001021" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期纽约客 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-<a href="https://wwfh.lanzout.com/i1XNy2cltu0f">The New Yorker PDF Download Link</a>  
+<a href="https://wwfh.lanzout.com/iRAiX2d3oeif">The New Yorker PDF Download Link</a>  
 <br/>
 链接提取码： waiktu
  
