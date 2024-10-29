@@ -12,7 +12,7 @@ comments: false
 ## 纽约客 The New Yorker – October 28, 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/rsjQLdvb/The-New-Yorker-2024-10-28-00.png" alt="TheNewYorker2024001028" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/vmLs6h96/The-New-Yorker-2024-10-28-00.png" alt="TheNewYorker2024001028" border="0" width = 300 height = 400 /> 
 </div>
 
 
