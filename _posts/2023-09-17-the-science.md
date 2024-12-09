@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科学"
-date:   2024-11-15
+date:   2024-11-29
 excerpt: "科学最新一期"
 tag:
 - science 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 科学 Science – 15 November 2024
+## 科学 Science – 29 November 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/cCbwkbTk/Science-Issue-6723-Volume-386-15-November-2024-00.png" alt="science20241115" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/vZ4rCb9m/Science-Issue-6725-Volume-386-29-November-2024-00.png" alt="science20241129" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/iwTst2g20t9e">Science PDF Download Link</a>  
+  <a href="https://wwfh.lanzout.com/iyWxK2hne10d">Science PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
