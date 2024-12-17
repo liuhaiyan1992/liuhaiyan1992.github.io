@@ -19,7 +19,7 @@ comments: false
 
  <h5>最新一期经济学人 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/isIbz2icfa8b">The Economist PDF Download Link</a>   
+  <a href="https://wwfh.lanzout.com/iOBZJ2ici1re">The Economist PDF Download Link</a>   
   <br/>
   链接提取码： waiktu
  
