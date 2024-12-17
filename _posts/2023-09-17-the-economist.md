@@ -9,11 +9,11 @@ tag:
 comments: false
 ---
 
-## 经济学人 The Economist - December,14 2024  - December,20 2024 
+## 经济学人 The Economist - December,14 2024  to  December,20 2024 
 
 
 <div align="center">
-<img src="https://i.postimg.cc/VLBqYvgC/The-New-Yorker-December-16-2024-00.png" alt="The economist 20241214" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/65bn3596/TE-2024-12-14-00.png" alt="The economist 20241214" border="0" width = 300 height = 400 /> 
 </div>
 
 
