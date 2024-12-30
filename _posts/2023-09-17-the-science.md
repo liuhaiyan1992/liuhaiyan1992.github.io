@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科学"
-date:   2024-12-06
+date:   2024-12-20
 excerpt: "科学最新一期"
 tag:
 - science 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 科学 Science – 06 December 2024
+## 科学 Science – 20 December 2024
 
 <div align="center">
-<img src="https://i.postimg.cc/k5S99pf2/Science-Issue-6726-Volume-386-6-December-2024-00.png" alt="science20241206" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/4xFhVbM9/Science-Issue-6728-Volume-386-20-December-2024-00.png" alt="science20241220" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/ierJN2hzp5pa">Science PDF Download Link</a>  
+  <a href="https://wwfh.lanzout.com/iRb1M2je3v5a">Science PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
