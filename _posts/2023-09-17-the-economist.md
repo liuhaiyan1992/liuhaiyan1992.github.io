@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "经济学人"
-date:   2024-12-21
+date:   2025-01-04
 excerpt: "经济学人最新一期"
 tag:
 - economist
@@ -9,17 +9,17 @@ tag:
 comments: false
 ---
 
-## 经济学人 The Economist - December,21 2024  to  January,03 2025
+## 经济学人 The Economist - January,04 2025  to  January,10 2025 
 
 
 <div align="center">
-<img src="https://i.postimg.cc/wv8KMrGF/TE-2024-12-21-2025-01-03-00.png" alt="The economist 20241221" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/pTMwD8ph/The-Economist-USA-January-4-10-2025-00.png" alt="The economist 20250104" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期经济学人 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/iol6Z2iu5pja">The Economist PDF Download Link</a>   
+  <a href="https://wwfh.lanzout.com/icGBD2k6sjgh">The Economist PDF Download Link</a>   
   <br/>
   链接提取码： waiktu
  
