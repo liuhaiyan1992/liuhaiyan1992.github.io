@@ -12,7 +12,7 @@ comments: false
 ## 纽约客 The New Yorker – January 13, 2025
 
 <div align="center">
-<img src="https://i.postimg.cc/YqyXpt8w/The-New-Yorker-2025-01-13-00.png" alt="TheNewYorker20250000113" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/YqyXpt8w/The-New-Yorker-2025-01-13-00.png" alt="TheNewYorker202500113" border="0" width = 300 height = 400 /> 
 </div>
 
 
