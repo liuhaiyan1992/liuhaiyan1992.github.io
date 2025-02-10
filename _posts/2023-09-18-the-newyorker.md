@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "纽约客"
-date:   2025-01-20
+date:   2025-02-03
 excerpt: "纽约客最新一期"
 tag:
 - newyorker 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 纽约客 The New Yorker – 2025.01.20
+## 纽约客 The New Yorker – 2025.02.03
 
 <div align="center">
-<img src="https://i.postimg.cc/y8DnV8Nk/The-New-Yorker-January-20-2025-00.png" alt="TheNewYorker202500120" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/fT2XqDPc/The-New-Yorker-February-3-2025-00.png" alt="TheNewYorker202500203" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期纽约客 高清PDF 无水印免费下载，点击下方链接进行下载。 </h5>
  
-<a href="https://wwfh.lanzout.com/iYikn2ljlyfi">The New Yorker PDF Download Link</a>  
+<a href="https://wwfh.lanzout.com/iZqxY2nbu3uf">The New Yorker PDF Download Link</a>  
 <br/>
 链接提取码： waiktu
  
