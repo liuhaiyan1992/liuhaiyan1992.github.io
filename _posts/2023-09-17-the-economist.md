@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "经济学人"
-date:   2025-02-08
+date:   2025-02-15
 excerpt: "经济学人最新一期"
 tag:
 - economist
@@ -9,17 +9,17 @@ tag:
 comments: false
 ---
 
-## 经济学人 The Economist - February,08 2025
+## 经济学人 The Economist - February,15 2025
 
 
 <div align="center">
-<img src="https://i.postimg.cc/6qzRXXpN/TE-2025-02-08-UK-00.png" alt="The economist 20250208" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/c1h4ShVK/TE-2025-02-15-00.png" alt="The economist 20250215" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期经济学人 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/ica3A2nbta7i">The Economist PDF Download Link</a>   
+  <a href="https://wwfh.lanzout.com/ibhmP2oxpsqj">The Economist PDF Download Link</a>   
   <br/>
   链接提取码： waiktu
  
