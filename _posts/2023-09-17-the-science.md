@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科学"
-date:   2025-01-31
+date:   2025-02-107
 excerpt: "科学最新一期"
 tag:
 - science 
@@ -9,16 +9,16 @@ tag:
 comments: false
 ---
 
-## 科学 Science – 31 January 2025
+## 科学 Science – 07 February 2025
 
 <div align="center">
-<img src="https://i.postimg.cc/C5mVzxGY/Science-31-January-2025-00.png" alt="science20250131" border="0" width = 300 height = 400 /> 
+<img src="https://i.postimg.cc/RVPFcddr/Science-Issue-6734-Volume-387-7-February-2025-00.png" alt="science20250207" border="0" width = 300 height = 400 /> 
 </div>
 
 
  <h5>最新一期科学 高清PDF 无水印免费下载，点击下方链接进行下载. </h5>
  
-  <a href="https://wwfh.lanzout.com/isFVJ2mpi5be">Science PDF Download Link</a>  
+  <a href="https://wwfh.lanzout.com/i4dBB2oxpa3i">Science PDF Download Link</a>  
   <br/>
   链接提取码： waiktu
  
